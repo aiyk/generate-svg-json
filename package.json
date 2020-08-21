@@ -1,0 +1,25 @@
+{
+  "name": "generate-icons",
+  "version": "1.0.0",
+  "description": "a node script to generate a json file containing the path data to all of my svg icons for a stencil project",
+  "main": "generate.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aiyk/generate-svg-json.git"
+  },
+  "keywords": [
+    "icons",
+    "svg",
+    "stencil",
+    "json"
+  ],
+  "author": "Ikechukwu Ekwe (aiyk.ekwe@gmail.com)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aiyk/generate-svg-json/issues"
+  },
+  "homepage": "https://github.com/aiyk/generate-svg-json#readme"
+}
